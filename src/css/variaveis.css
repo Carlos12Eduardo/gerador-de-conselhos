@@ -1,0 +1,8 @@
+:root{
+    --cor-conselho: hsl(193, 38%, 86%);
+    --background-botao: hsl(150, 100%, 66%);
+    --background: hsl(217, 19%, 38%);
+    --background-cartao: hsl(217, 19%, 24%);
+    --background-pagina: hsl(218, 23%, 16%);
+    --largura-do-cartao: 500px;
+}

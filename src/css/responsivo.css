@@ -1,0 +1,17 @@
+@media (max-width: 500px) {
+    .cartao{
+        width: 90%;
+        height: 300px;
+    }
+    .cartao .conteudo .titulo{
+        font-size: 12px;
+    }
+    .cartao .conteudo .conselho{
+        font-size: 18px;
+    }
+    .cartao .conteudo .divisoria img{
+        src: url('../images/pattern-divider-mobile.svg');
+        background-size: cover;
+    }
+
+}
